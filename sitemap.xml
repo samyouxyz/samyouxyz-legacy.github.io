@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://samyou.xyz/writings/interface-as-compression/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/writings/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/writings/brain-filter/</loc>
+    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/writings/questions/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samyou.xyz/about/</loc>
+  </url><url>
+    <loc>https://samyou.xyz/archives/</loc>
+  </url><url>
+    <loc>https://samyou.xyz/categories/</loc>
+  </url><url>
+    <loc>https://samyou.xyz/search/</loc>
+  </url><url>
+    <loc>https://samyou.xyz/tags/</loc>
+  </url>
+</urlset>

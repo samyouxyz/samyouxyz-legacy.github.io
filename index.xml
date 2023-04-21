@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sam Space</title>
+    <link>https://samyou.xyz/</link>
+    <description>Recent content on Sam Space</description>
+    <image>
+      <title>Sam Space</title>
+      <url>https://samyou.xyz/sunflower.jpg</url>
+      <link>https://samyou.xyz/sunflower.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://samyou.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interface as Compression</title>
+      <link>https://samyou.xyz/writings/interface-as-compression/</link>
+      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samyou.xyz/writings/interface-as-compression/</guid>
+      <description>What is a better interface?</description>
+    </item>
+    
+    <item>
+      <title>Brain Filter</title>
+      <link>https://samyou.xyz/writings/brain-filter/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samyou.xyz/writings/brain-filter/</guid>
+      <description>Garbage in, garbage out.</description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>https://samyou.xyz/writings/questions/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://samyou.xyz/writings/questions/</guid>
+      <description>Questions from shower thoughts.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://samyou.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samyou.xyz/about/</guid>
+      <description>👋🏼 Hi! I&amp;rsquo;m Sam. My full name is Ratanaksamrith You. I mostly focus my time on software engineering and research. My goal is to make machine smarter. If it works it is comparable to extending human life, because if we can delegate work to machine, we can get those time back, increasing the amount of useful time we have.
+Previously, I worked at a crypto exchange in Seoul. Later on, I started working on a startup .</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
