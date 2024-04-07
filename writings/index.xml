@@ -11,42 +11,35 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://samyou.xyz/writings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://samyou.xyz/writings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intelligence as Compression</title>
       <link>https://samyou.xyz/writings/intelligence-as-compression/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/writings/intelligence-as-compression/</guid>
       <description>how did it do it?</description>
     </item>
-    
     <item>
       <title>Interface as Compression</title>
       <link>https://samyou.xyz/writings/interface-as-compression/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/writings/interface-as-compression/</guid>
       <description>What is a better interface?</description>
     </item>
-    
     <item>
       <title>Brain Filter</title>
       <link>https://samyou.xyz/writings/brain-filter/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/writings/brain-filter/</guid>
       <description>Garbage in, garbage out.</description>
     </item>
-    
     <item>
       <title>Questions</title>
       <link>https://samyou.xyz/writings/questions/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/writings/questions/</guid>
       <description>Questions from shower thoughts.</description>
     </item>
-    
   </channel>
 </rss>

@@ -11,55 +11,44 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://samyou.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://samyou.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intelligence as Compression</title>
       <link>https://samyou.xyz/writings/intelligence-as-compression/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/writings/intelligence-as-compression/</guid>
       <description>how did it do it?</description>
     </item>
-    
     <item>
       <title>Interface as Compression</title>
       <link>https://samyou.xyz/writings/interface-as-compression/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/writings/interface-as-compression/</guid>
       <description>What is a better interface?</description>
     </item>
-    
     <item>
       <title>Brain Filter</title>
       <link>https://samyou.xyz/writings/brain-filter/</link>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/writings/brain-filter/</guid>
       <description>Garbage in, garbage out.</description>
     </item>
-    
     <item>
       <title>Questions</title>
       <link>https://samyou.xyz/writings/questions/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/writings/questions/</guid>
       <description>Questions from shower thoughts.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://samyou.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://samyou.xyz/about/</guid>
       <description>👋🏼 Hi! I&amp;rsquo;m Sam. My full name is Ratanaksamrith You. I mostly focus my time on software engineering and research.
-Previously, I worked at a crypto exchange in Seoul, building trading applications that facilitate +$5M daily trading volume. Later on, I started working on a startup where I build an experimental product that let you listen to and mint music collectibles from across multiple platforms in a single interface.
-During my master degree, I worked on machine learning application, and other things .</description>
+Previously, I worked at a crypto exchange in Seoul, building financial asset trading applications. Later on, I started working on a startup where I build an experimental product that let you listen to and mint music collectibles from across multiple platforms in a single interface.
+During my master degree, I worked on machine learning application, and other things.</description>
     </item>
-    
-    
-    
   </channel>
 </rss>
